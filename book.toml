@@ -1,0 +1,6 @@
+[book]
+authors = ["Marco Bruno"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MarcoBrunoDev"
